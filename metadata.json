@@ -1,0 +1,6 @@
+{
+  "name": "PDF Quiz Converter",
+  "description": "Convert quiz PDFs with highlighted answers into interactive online tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
